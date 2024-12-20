@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../xicon.png</file>
+    <file>../facebookicon.png</file>
+    <file>../testui/images.jpg</file>
+  </qresource>
+</RCC>

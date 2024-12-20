@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="tq">
+    <file>../../Banner-do-gia-dung.jpg</file>
+    <file>../../ftdgd.jpg</file>
+  </qresource>
+</RCC>

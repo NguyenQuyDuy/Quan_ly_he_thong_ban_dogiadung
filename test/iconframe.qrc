@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>../../testui/images.jpg</file>
+    <file>../../xicon.png</file>
+    <file>../../facebookicon.png</file>
+    <file>../../ggicon.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>../../ggicon.png</file>
+    <file>../../icon/in35.png</file>
+    <file>../../icon/them35.png</file>
+    <file>../../icon/sua35.png</file>
+    <file>../../icon/xoa35.png</file>
+    <file>../../icon/search35.png</file>
+    <file>../../icon/banhang35.png</file>
+    <file>../../icon/dh.png</file>
+    <file>../../icon/khach35.png</file>
+    <file>../../icon/nhanvien35.png</file>
+    <file>../../icon/png-clipart-computer-icons-icon-design-google-account-desktop-material-design-account-icon-black-account-icon-thumbnail-removebg-preview.png</file>
+    <file>../../icon/qltaikhoan35.png</file>
+    <file>../../icon/sanpham35.png</file>
+    <file>../../icon/taikhoan35.png</file>
+    <file>../../icon/tongquan35.png</file>
+  </qresource>
+</RCC>
